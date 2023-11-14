@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Starboy",
+        "artist": "The Weeknd",
+        "imageUrl": "./images/l5.jpg",
+        "downloadUrl": "./images/lyric1.jpg"
+    },
+    {
+        "title": "Wake me up when septeber ends",
+        "artist": "Green day",
+        "imageUrl": "./images/l4.jpg",
+        "downloadUrl": "./images/l4.jpg"
+    },
+    {
+        "title": "Starboy",
+        "artist": "The Weeknd",
+        "imageUrl": "./images/l5.jpg",
+        "downloadUrl": "./images/l5.jpg"
+    },
+    {
+        "title": "Atlantis",
+        "artist": "Seafret",
+        "imageUrl": "./images/l6.jpg",
+        "downloadUrl": "./images/l6.jpg"
+    },
+    {
+        
+        "title": "Another Love",
+        "artist": "Tom Odell",
+        "imageUrl": "./images/l7.jpg",
+        "downloadUrl": "./images/l7.jpg"
+    }
+   
+   
+   
+]
