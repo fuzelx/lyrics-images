@@ -29,8 +29,21 @@
         "artist": "Tom Odell",
         "imageUrl": "./images/l7.jpg",
         "downloadUrl": "./images/l7.jpg"
+    },
+    {
+        
+        "title": "Love Is Gone",
+        "artist": "SLANDER",
+        "imageUrl": "./images/l9.jpg",
+        "downloadUrl": "./images/l9.jpg"
+    },
+    {
+        
+        "title": "You were there for me",
+        "artist": "Henry moodie",
+        "imageUrl": "./images/l8.jpg",
+        "downloadUrl": "./images/l8.jpg"
     }
-   
    
    
 ]

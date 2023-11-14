@@ -62,8 +62,8 @@ function createLyricsCard(lyrics) {
     const card = document.createElement("div");
     card.classList.add("rounded-xl", "border", "border-neutral-200", "shadow-md", "py-3","mt-3", "px-3");
     card.innerHTML = `
-        <img class="w-full h-auto" src="${lyrics.imageUrl}" alt="${lyrics.title} Image">
-        <h2 class="mt-1 text-xl font-semibold text-black">${lyrics.title}</h2>
+        <img class="w-full h-auto rounded-md" src="${lyrics.imageUrl}" alt="${lyrics.title} Image">
+        <h2 class="mt-1 text-2xl font-semibold text-black">${lyrics.title}</h2>
         <P class="text-black mt-1">${lyrics.artist}</P>
         <div class="mt-3 mb-3">
         <a class="mt-3 mb-2 bg-purple-600 p-3 text-white shadow-lg rounded-full" href="${lyrics.downloadUrl}" download>Download</a>
